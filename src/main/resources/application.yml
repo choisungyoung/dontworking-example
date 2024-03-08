@@ -1,1 +1,9 @@
 
+cloud:
+  aws:
+    dynamodb:
+      region: ap-northeast-2
+      accessKey : ik9rb
+      secretKey : o25r2
+#      accessKey: { access-key }
+#      secretKey: { secret-key }
